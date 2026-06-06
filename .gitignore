@@ -1,0 +1,29 @@
+# Executable
+*.exe
+
+# Object files
+*.o
+*.obj
+
+# Dynamic libraries
+*.dll
+
+# Build folders
+build/
+cmake-build-debug/
+cmake-build-release/
+
+# Visual Studio Code
+.vscode/
+
+# OpenGL textures/images (jika ukurannya besar)
+*.bmp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
